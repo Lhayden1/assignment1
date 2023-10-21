@@ -1,0 +1,73 @@
+/*Latiesha Hayden 8920327*/
+body{
+    width: auto;
+    max-width: fit-content;
+    margin: auto;
+    font: normal normal normal 12px/30px Georgia, sans-serif;
+    padding: 20px;
+}
+
+.Part2{
+    border: 4px solid rgb(235, 200, 221);
+    border-radius: 20px;
+    padding: 1px 20px;
+    margin: 10px;
+}
+h1, h2{
+    color: rgb(182, 147, 179);
+    font-variant: small-caps;
+}
+
+footer p{
+    font-size : .75em;
+}
+
+footer{
+    clear : both;
+
+}
+
+main{
+    float : left;
+    width: 66%;
+    margin: auto;
+    padding: 2px;
+}
+
+aside{
+    float : right;
+    width: 33%;
+    margin: auto;
+    padding: 2px;
+}
+
+.maining{
+    border: 5px solid rgb(235, 200, 221);
+    border-radius: 20px;
+    max-width: 500px;
+}
+
+figcaption{
+    font-style: bold;
+    font-variant: small-caps;
+}
+
+q{
+    font-family: cursive;
+    font-style: italic;
+    font-size: larger;
+}
+
+ul li{
+    line-height: 450%;
+    list-style-type: none;
+}
+
+li > a{
+    text-decoration: none;
+    color: rgb(255, 132, 255);
+}
+
+a:hover{
+    color: rgb(230, 37, 230);
+}
